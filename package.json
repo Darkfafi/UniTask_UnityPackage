@@ -1,0 +1,17 @@
+{
+  "name": "rasofiagames.unitask",
+  "displayName": "UniTask",
+  "version": "2.5.10",
+  "unity": "2019.4",
+  "description": "Provides an efficient allocation free async/await integration for Unity.",
+  "keywords": [
+    "Tasks",
+    "Async",
+	"UniTask"
+  ],
+  "dependencies": {},
+  "author": {
+    "name": "Rasofia Games"
+  },
+  "type": "tool"
+}
